@@ -1,3 +1,8 @@
+📢 Day 2 – Daily Python Challenge 🐍 
+
+🚀 Challenge: Aisa Python program likhna hai jo user se ek sentence le aur usme jitne words hain, count kare! 🔢💡
+
+
 user_sentence = input("Enter your sentence: ")
 print(f"Hello  {user_sentence} Your Word Count is {len(user_sentence)} ")
 print(f"Hello  {user_sentence} Your Word Count is {user_sentence.split()} ")
