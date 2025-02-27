@@ -1,3 +1,7 @@
+📢 Day 3 – Daily Python Challenge 🐍
+🚀 Challenge: Aisa Python program likho jo user se ek number le aur check kare ke wo prime number hai ya nahi! 🔢💡
+
+
 def is_prime(n):
     
     if n <= 1:
